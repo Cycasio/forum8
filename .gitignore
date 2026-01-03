@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated documents
+/data/uploads/*
+/data/outputs/*
+/data/tmp/*
+!/data/uploads/.gitkeep
+!/data/outputs/.gitkeep
+!/data/tmp/.gitkeep
